@@ -10,7 +10,7 @@ body{
 }
 .profile{
   width: 40%;
-  margin: 0 auto 0 auto;
+  margin: 0 auto 50px auto;
   line-height: 2;
 }
 hr{
@@ -47,9 +47,6 @@ hr{
   text-align: left;
   line-height: 2;
 
-}
-.profile{
-  margin-bottom: 50px;
 }
 .skillone{
   width:25%;
