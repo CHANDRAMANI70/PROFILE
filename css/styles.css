@@ -10,7 +10,7 @@ body{
 }
 .profile{
 	display:inline-block;
-  width: 40%;
+  width: 30%;
   margin: 0 auto 0 auto;
   line-height: 2;
 }
@@ -22,7 +22,7 @@ hr{
   margin: 100px auto 100PX auto;
 }
 .contact-me{
-  width: 40%;
+  width: 30%;
   margin: 0 auto 0 auto;
   line-height: 2;
 	display:inline-block;
